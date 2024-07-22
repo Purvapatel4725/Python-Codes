@@ -1,0 +1,2 @@
+Sum of 9 is: 45
+Sum of 10 is: 55
