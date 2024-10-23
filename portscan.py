@@ -1,6 +1,4 @@
 import socket
-print("Purva Patel")
-print("18.213.152.40")
 
 def handle(req):
     ip = req.strip()
